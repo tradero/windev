@@ -20,9 +20,16 @@ Installation
 
 Console2 will be available from your user home directory, inside of ~/install/Console2/ directory.
 
+Building
+=====
+
+Customization of windev should be simple as changing things You're interested of and running build.sh script to generate your new .exe file.
+
+Note: remember that stage1 directory should be as small as it is possible.
+
 TODO
 =====
 
 - deinstallator
-- update manager (simple git pull should be enought)
+- update manager (simple git pull should be enough)
 - fixing missing git pull ;-D
