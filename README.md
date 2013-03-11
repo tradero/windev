@@ -14,7 +14,7 @@ Installation
 2. Run
 3. Select installation directory (in my case D:\_software)
 4. Select user home directory (in my case D:\_projects)
-5. ...drink some coffee, watch TV or whatever, depending on your internet connection speed You'll have to wait for downloads (nodejs, python, ruby, php, console2 and sublime)
+5. ...drink some coffee, watch TV or whatever, depending on your internet connection speed You'll have to wait for downloads (https://github.com/tradero/windev-env and nodejs, python, ruby, php, console2 and sublime)
 6. Go thru installation step by step with each installer wizzard
 7. that's it...
 
