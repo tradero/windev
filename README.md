@@ -33,3 +33,5 @@ TODO
 - deinstallator
 - update manager (simple git pull should be enough)
 - fixing missing git pull ;-D
+- pre installation script support (for example if user will create c:\pre.sh on his local machine, installator will execute it before installation)
+- post installation script support (for example if user will create c:\post.sh on his local machine, installator will execute it after installation - for example, sublimetext full configuration with plugins and modules downloaded from some external git repository )
