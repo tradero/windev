@@ -1,0 +1,5 @@
+[core]
+	symlinks = false
+	autocrlf = input
+[http]
+	sslCAinfo = /bin/curl-ca-bundle.crt
