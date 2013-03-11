@@ -7,6 +7,13 @@ Because we don't like cygwin and manual installation ;-)
 
 Licenses files for all binaries will be kept inside of '_licenses' folder (or not, we will see how it goes with binary files mixing, almost all of these files got information about the author attached).
 
+Screenshots
+=====
+
+Installed and configured console2 with unix-like env for your development:
+![Configured Console2](screenshots/1.png "Configured Console2")
+![Configured Console2](screenshots/2.png "Configured Console2")
+
 Installation
 =====
 
